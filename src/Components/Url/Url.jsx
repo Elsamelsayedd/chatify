@@ -1,1 +1,1 @@
-export let url = 'https://chatify-932ip27d1-adham20022023s-projects.vercel.app/api/v1/';
+export let url = "http://localhost:8000/api/v1/";
